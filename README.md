@@ -2,4 +2,4 @@
 
 ## 6. Diagramas de contexto
 
-![Diagrama De Contexto](../uml/context.png)
+![Diagrama De Contexto](DOSW_ParcialT1_SergioVega\docs\uml/context.png)
