@@ -55,3 +55,8 @@
 | **Flujo principal**          | 1. El solicitante selecciona la opción para solicitar una tutoria segun sus necesidades.<br>2. El sistema solicita la información del estudiante.<br>3. El sistema filtra a los tutores segun la necesidad del estudiante <br>4. El sistema verifica la fecha y disponibilidad de los tutores validos.<br>5. El sistema valida la información.<br>5. El sistema informa a el estudiante de su tutor. <br>6. El sistema registra la tutoria. |
 | **Diagrama de caso de uso**  | ![Solicitar tutoria especifica](docs/uml/caso3.png) |
 | **Poscondiciones**           | El estudiante es informado de su tutor y de su reserva |
+
+
+## 8. Planeacion Agile
+
+https://yazid-sanchez.atlassian.net/jira/software/projects/DPTSV/boards/3/timeline?atlOrigin=eyJpIjoiZTBkNTZlODExMmRkNDI1YjllYTM1MmM4OGMzZTczYmEiLCJwIjoiaiJ9
