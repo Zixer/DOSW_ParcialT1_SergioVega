@@ -60,3 +60,11 @@
 ## 8. Planeacion Agile
 
 https://yazid-sanchez.atlassian.net/jira/software/projects/DPTSV/boards/3/timeline?atlOrigin=eyJpIjoiZTBkNTZlODExMmRkNDI1YjllYTM1MmM4OGMzZTczYmEiLCJwIjoiaiJ9
+
+## 9. Diseño de Software y Patrones
+
+Patron 1: Adapter (estructural)
+Este patron me parece una buena alternativa ya que se nos menciona que Sistema Academico (Enlace) al recibir el ID de el estudiante, devuelve informacion en formato JSON, lo cual nos puede causar inconvenientes al realizar la logica del codigo, en cambio su usamos este patron de diseño, podemos lograr que los datos que lleguen a nuestra clase que va a realizar las comprobaciones sean mucho mas limpios.
+
+Patron 2: Chain of Responsibility (comportamiento)
+Este patron me parece util para la parte de la seleccion de preferencia, ya que siempre vamos a tener un "orden", ya que si no cumple la primera, pasa a la segunda, etc. Por esto mismo creo que es una buena alternativa ya que si el solicitante pidio algo en especifico, los manejadores, o en nuestro contexto, los diferentes tutores, por ellos mismo van a decir "yo no cumplo con esto" y le van a delegar esa responsabilidad al siguiente.
